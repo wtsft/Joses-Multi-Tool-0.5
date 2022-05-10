@@ -5,6 +5,11 @@
 # Joses Multi Tool 0.5
 Simple Multi Tool Made In Batch
 
+# Login
+Username: jose
+
+Password: jose
+
 
 # Features
 - Ip Grabbers
